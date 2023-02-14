@@ -1,5 +1,6 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
+import { Link } from 'react-router-dom'
 
 const Footer = (props) => {
   const bgStyle = { backgroundColor: "#f5f5f5" };
@@ -7,21 +8,18 @@ const Footer = (props) => {
   return (
     <footer style={bgStyle} className="mt-auto py-5 text-center ">
       <Container>
-        {props.children}
-        <i className="fas fa-code" /> with <i className="fas fa-heart" /> by{" "}
-        <a
-          rel="noopener"
-          href="https://github.com/hashirshoaeb"
-          aria-label="My GitHub"
-        > <span className="badge bg-dark">
-            Hashir Shoaib
-          </span>
-        </a>{" "}
-        using <i className="fab fa-react" />
+        <div>
+          <Link to="/drawing">
+              <button
+                className="btn btn-outline-light border-dark btn-lg text-dark">
+                  Check this out
+              </button>
+          </Link>
+        </div>
         <p>
+          <br></br>
           <small className="text-muted">
-            Project code is open source. Feel free to fork and make your own
-            version.
+            I know this is not physical and you might not like it as much. But I think this is really cool and does not die like flowers. Also, too bad you have a boyfried in CS hahahahahahahaha.
           </small>
         </p>
       </Container>
