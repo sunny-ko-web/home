@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.778eeed7.css",
+    "main.js": "/home/static/js/main.240b44cd.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/vancouver.png": "/home/static/media/vancouver.8dbd49fe2b0818727051.png",
+    "static/media/recent.png": "/home/static/media/recent.29776736cd321f632c9e.png",
+    "static/media/next.png": "/home/static/media/next.ede1a55ca7147cca1111.png",
+    "static/media/boba.png": "/home/static/media/boba.e689b8e4565f3b0c22ad.png",
+    "static/media/tainan.png": "/home/static/media/tainan.44752e9e83653fb41ffe.png",
+    "static/media/bellevue.png": "/home/static/media/bellevue.4272f13122065b6ec191.png",
+    "static/media/you.png": "/home/static/media/you.44ddd5bbafb97a98a826.png",
+    "static/media/tainanbeach.png": "/home/static/media/tainanbeach.991f185a6843d77a6cb0.png",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/home/index.html",
+    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
+    "main.240b44cd.js.map": "/home/static/js/main.240b44cd.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.240b44cd.js"
+  ]
+}
